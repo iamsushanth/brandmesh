@@ -7,7 +7,7 @@ import SiteMetadata from "../components/SiteMetadata"
 
 const AboutPage = ({ data }) => (
   <Layout>
-    <SiteMetadata title="About" description="Sample description" />
+    <SiteMetadata title="About" description="Result Driven Digital Marketing Agency in Hubli. Websites, Social Media Marketing, Search Engine Optimization (SEO), Google Ads & PPC." />
 
     <div className="bg-gray-100">
       <div className="container py-12 lg:pb-16">
