@@ -11,7 +11,7 @@ const Hero = () => (
     </h2>
     <h3>
     <span className="text-blue-600 text-3xl">
-        Let’s Grow Your Brand To The Next Level
+        Let’s Grow Your Brand To The Next Level.
       </span>
     </h3>
   </div>
