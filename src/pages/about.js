@@ -14,22 +14,22 @@ const AboutPage = ({ data }) => (
         <div className="flex flex-wrap">
           <div className="w-full md:w-1/2 xl:w-3/5 pb-8 md:pb-0">
             <h1 className="text-3xl leading-tight font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              About me
+              About us
             </h1>
 
-            <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
-              Interdum et malesuada fames ac ante.
-            </h2>
             <div className="mt-4 leading-loose">
-              Curabitur non hendrerit dolor. Interdum et malesuada fames ac ante
-              ipsum primis in faucibus. Ut&nbsp;sapien ex, fringilla sed
-              consectetur et, pharetra eget lacus.
+              Result Driven Digital Marketing Agency in Hubli. Websites, Social Media Marketing, Search Engine Optimization (SEO), Google Ads & PPC.
               <br />
               <br />
-              Morbi sem leo, varius ut tempus et, tempor sit amet nibh.
-              Curabitur fermentum feugiat libero, sed egestas lorem aliquam et.
-              Praesent id mi purus. Morbi sem leo, varius ut tempus et, tempor
-              sit amet nibh.
+              <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
+              Let us handle your project, professionally.
+            </h2>
+            <br />
+              <li>Search Engine Optimization</li>
+              <li>Social Media Marketing</li>
+              <li>Web Design & Development</li>
+              <li>Pay Per Click</li>
+              <li>Content Marketing</li><li>Email Marketing</li><li>Sales funnel & Landing Page</li>
               <br />
               <br />
               I'm happy to hear from you:
@@ -38,7 +38,7 @@ const AboutPage = ({ data }) => (
                 href="mailto:contact@johndoe.com"
                 className="border-b border-gray-500 hover:border-blue-600 hover:text-blue-600"
               >
-                contact@johndoe.com
+                contact@brandmesh.co
               </a>
             </div>
           </div>

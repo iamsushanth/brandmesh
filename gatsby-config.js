@@ -15,15 +15,15 @@ module.exports = {
       { name: "About", to: "/about" },
     ],
     links: {
-      facebook: "https://www.facebook.com/",
-      instagram: "https://www.instagram.com/",
-      pinterest: "https://pinterest.com/",
-      twitter: "https://twitter.com/",
+      facebook: "https://www.facebook.com/brandmesh",
+      instagram: "https://www.instagram.com/brandmesh_",
+      pinterest: "https://pinterest.com/brandmesh",
+      twitter: "https://twitter.com/brandmesh",
     },
     locale: "en",
-    title: `John Doe`,
-    description: `Photography portfolio of John Doe`,
-    author: `@johndoe`,
+    title: `Brand Mesh`,
+    description: `Brandin`,
+    author: `@Sushanth`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe`,
-        short_name: `johndoe`,
+        name: `Brand Mesh`,
+        short_name: `brandmesh`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#3182ce`,

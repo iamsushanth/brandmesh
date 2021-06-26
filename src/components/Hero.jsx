@@ -3,15 +3,17 @@ import React from "react"
 const Hero = () => (
   <div className="container py-12 lg:pb-16">
     <h2 className="text-3xl sm:text-4xl font-extrabold leading-tight tracking-tight text-gray-900">
-      Hello, I'm John{" "}
+      Hello, Welcome to Brand Mesh{" "}
       <span role="img" aria-label="waving hand">
         👋
       </span>
       <br />
-      <span className="text-blue-600">
-        Welcome to my photography portfolio.
-      </span>
     </h2>
+    <h3>
+    <span className="text-blue-600">
+        Let’s Grow Your Brand To The Next Level
+      </span>
+    </h3>
   </div>
 )
 
