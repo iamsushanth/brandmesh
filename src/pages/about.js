@@ -39,6 +39,7 @@ const AboutPage = ({ data }) => (
                 className="border-b border-gray-500 hover:border-blue-600 hover:text-blue-600"
               >
                 contact@brandmesh.co
+                +91 8880111080
               </a>
             </div>
           </div>
