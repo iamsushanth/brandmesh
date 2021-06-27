@@ -19,11 +19,11 @@ module.exports = {
       instagram: "https://www.instagram.com/brandmesh_",
       pinterest: "https://pinterest.com/brandmesh",
       twitter: "https://twitter.com/brandmesh",
-      youtube: "https://www.youtube.com/channel/UC8cMSrZY68H1ZQ4HzV3vGNAz"
+      youtube: "https://www.youtube.com/channel/UC8cMSrZY68H1ZQ4HzV3vGNA"
     },
     locale: "en",
     title: `Brand Mesh`,
-    description: `Brandin`,
+    description: `Branding & Digital Marketing Agency`,
     author: `@Sushanth`,
   },
   plugins: [
