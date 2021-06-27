@@ -1,6 +1,6 @@
 import { graphql, useStaticQuery } from "gatsby"
 import React from "react"
-import { FaFacebook, FaInstagram, FaTwitter, FaPinterest } from "react-icons/fa"
+import { FaFacebook, FaInstagram, FaTwitter, FaPinterest, FaYoutube } from "react-icons/fa"
 
 const Footer = () => {
   const {
@@ -16,6 +16,7 @@ const Footer = () => {
             instagram
             pinterest
             twitter
+            youtube
           }
         }
       }
