@@ -19,6 +19,7 @@ module.exports = {
       instagram: "https://www.instagram.com/brandmesh_",
       pinterest: "https://pinterest.com/brandmesh",
       twitter: "https://twitter.com/brandmesh",
+      youtube: "https://www.youtube.com/channel/UC8cMSrZY68H1ZQ4HzV3vGNAz"
     },
     locale: "en",
     title: `Brand Mesh`,

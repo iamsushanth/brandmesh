@@ -37,6 +37,7 @@ const Footer = () => {
           icon={FaPinterest}
           label="Pinterest"
         />
+        <FooterLink href={links.youtube} icon={FaYoutube} label="Youtube" />
       </ul>
       <div className="mt-8 md:mt-0 md:order-1">
         <p className="text-center text-sm md:text-base text-gray-700">
